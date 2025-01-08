@@ -1,4 +1,4 @@
-링크: https://www.notion.so/11103173cead80f8946afd6e1148b84c?p=11703173cead812e811fff9abd82edd3&pm=c
+링크: [https://www.notion.so/11103173cead80f8946afd6e1148b84c?p=11703173cead812e811fff9abd82edd3&pm=c](https://internal-cake-81f.notion.site/FPGA-SOC-11703173cead812e811fff9abd82edd3?pvs=74)
 
 생체 데이터 측정 및 OLED Display
 
